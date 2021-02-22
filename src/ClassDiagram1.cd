@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Altın_Toplama_Oyunu.Coordinate" Collapsed="true">
+    <Position X="15.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAIAAAAAAAEAYAA=</HashCode>
+      <FileName>Coordinate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.EndOfGameFrm" Collapsed="true">
+    <Position X="17" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgARiASAAABAAAMGAAQACAAAgAAAAAAAFAAAAQAA=</HashCode>
+      <FileName>EndOfGameFrm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.FileForData" Collapsed="true">
+    <Position X="18.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAACAAAAAAAAAAAAAEAABAAAAAA=</HashCode>
+      <FileName>FileForData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.Gamer">
+    <Position X="5.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJABQAAAIAAEBAAAgCgQIAhAEACAADAQAgCAUAA=</HashCode>
+      <FileName>Gamer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.GamerA">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GamerA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.GamerB">
+    <Position X="1.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GamerB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.GamerC">
+    <Position X="9.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GamerC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.GamerD">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>GamerD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.MainFrm" Collapsed="true">
+    <Position X="15.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>eAAAAAQZmCAAABQohkCbAAESIIBoAAAAAEAwAQAAAIA=</HashCode>
+      <FileName>MainFrm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.PlayGameFrm" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAADAAIAAAACDAAAACAAEAACAAAABAACAYZNA=</HashCode>
+      <FileName>PlayGameFrm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.Program" Collapsed="true">
+    <Position X="18.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.StartGame" Collapsed="true">
+    <Position X="18.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQgAAEAQEIAAACiAAAAAAAAAAACAAAAAAAAgYAgA=</HashCode>
+      <FileName>StartGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.Properties.Resources" Collapsed="true">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Altın_Toplama_Oyunu.Properties.Settings" Collapsed="true">
+    <Position X="17" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
