@@ -10,5 +10,5 @@
 ## Geliştiriciler / Developers 
 Berkay Efe ÖZCAN , Cumali TOPRAK
 
-## React Kutuphanesi ile Yazilan Web Sayfasi 
-![alt text](https://github.com/berkayefeozcan/to-do-list-api/blob/main/WebGorunum.png)
+## Uygulamadan Ekran Görüntüleri
+![alt text](https://github.com/berkayefeozcan/Gold-Hunter/blob/main/ss/game.png)
