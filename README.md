@@ -11,4 +11,6 @@
 Berkay Efe ÖZCAN , Cumali TOPRAK
 
 ## Uygulamadan Ekran Görüntüleri
+![alt text](https://github.com/berkayefeozcan/Gold-Hunter/blob/main/ss/game.png) aaasdfdsafsdfa
+![alt text](https://github.com/berkayefeozcan/Gold-Hunter/blob/main/ss/game.png)
 ![alt text](https://github.com/berkayefeozcan/Gold-Hunter/blob/main/ss/game.png)
